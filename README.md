@@ -1,5 +1,4 @@
 # TCP-UDP
-# TCP-UDP
 
 Send 200 MB of text file using TCP and UDP method.
 
@@ -46,10 +45,10 @@ Server should be executed first.
 Test file used is 204 MB of repeated ```1234567890123456789``` string.
 
 * TCP: Takes ± 10 seconds  
-  ![Result of TCP] (https://github.com/BenedictusKent/TCP-UDP/blob/main/images/image1.png)
+  ![Result of TCP](https://github.com/BenedictusKent/TCP-UDP/blob/main/images/image1.png)
 
 * UDP: Takes ± 80 seconds  
-  ![Result of UDP] (https://github.com/BenedictusKent/TCP-UDP/blob/main/images/image2.png)
+  ![Result of UDP](https://github.com/BenedictusKent/TCP-UDP/blob/main/images/image2.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
